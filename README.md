@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @sahilgajera1
+- 👀 I’m interested in cricket
+- 🌱 I’m currently learning SQL
+- 💞️ I’m looking to collaborate on Projects
+- 📫 How to reach me gajerasahil69@gmail.com
